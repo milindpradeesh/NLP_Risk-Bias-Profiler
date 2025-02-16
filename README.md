@@ -9,11 +9,11 @@ The Risk Profiling and Behavioral Bias Identifier is a Python-based tool designe
 
 ## Key Features
 
-✅ Three Risk Profiles: Conservative, Moderate, Aggressive
-✅ Five Behavioral Biases: Loss Aversion, Overconfidence, Status Quo Bias, Regret Aversion, Affinity Bias
-✅ Fuzzy Matching for Typos: Ensures accurate keyword identification
-✅ Semantic Similarity Matching: Uses spaCy to analyze user responses beyond keyword matching
-✅ Interactive Questioning: Engages users through an intuitive Q&A format
+* ✅ Three Risk Profiles: Conservative, Moderate, Aggressive
+* ✅ Five Behavioral Biases: Loss Aversion, Overconfidence, Status Quo Bias, Regret Aversion, Affinity Bias
+* ✅ Fuzzy Matching for Typos: Ensures accurate keyword identification
+* ✅ Semantic Similarity Matching: Uses spaCy to analyze user responses beyond keyword matching
+* ✅ Interactive Questioning: Engages users through an intuitive Q&A format
 
 ## Methodology
 
